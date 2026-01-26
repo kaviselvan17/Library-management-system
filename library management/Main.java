@@ -29,6 +29,7 @@ public class Main {
                 }
                 
                  
-            } while (choice != 5);
+            } while (choice != 6);
     }
+
 }
